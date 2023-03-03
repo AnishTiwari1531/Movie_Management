@@ -42,6 +42,6 @@ Link>>>   https://neuralfoundry-production.up.railway.app/movie_name
 Example - https://neuralfoundry-production.up.railway.app/swades
 
 `     -------- Thanks for reading -----------     `
-                **SOUMYA DUTTA**
+                **Anish Tiwari**
 
 
